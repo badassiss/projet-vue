@@ -1,13 +1,13 @@
 {
 "produit": [
 {
-"id"=001,
+"id": 001,
 "type": "Nike Air Jordan",
 "description": " nike air force 1 ",
 "detail" : "Black & White"
 },
 {
-"id"=002,
+"id": 002,
 "type": "Nike Air Jordan",
 "description": " nike air Jordan dior ",
 "detail" : "Grey"
